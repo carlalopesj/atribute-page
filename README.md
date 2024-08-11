@@ -1,4 +1,4 @@
-# Atribute Page - Super Mario
+# Tribute Page - Super Mario
  Uma "attribute-page" ou "página de atributos" é uma página de um site ou aplicação web dedicada a exibir e permitir a edição de atributos ou características específicas de um objeto ou entidade. No caso fiz sobre o Super Mario,
  foi um dos meus primeiros projetos com HTML e CSS, fiz durante o curso de Responsive Web Design da FreeCodeCamp.
  Aqui aprendi a trabalhar com imagens, links e listas no HTML, entre outros. 
